@@ -1,5 +1,6 @@
 # Alltag AI
 
+[Alle öffentlichen Arbeitsproben im Überblick](https://github.com/adrienwottke-stack/engine-playground/blob/main/PORTFOLIO.md)
 Einfach bedienbare KI-Anwendung für Alltagstexte, Fragen und Spracheingabe.
 
 ## Projekt und Beitrag
